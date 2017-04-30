@@ -1,1 +1,1 @@
-web: gunicorn hometutor.wsgi --log-file -
+web: gunicorn ocr.wsgi --log-file -
